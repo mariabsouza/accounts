@@ -10,3 +10,6 @@ It´s a simple project to practice some concepts of Node.JS, using external modu
 * Inquirer
 * FS (File System)
 
+## Demo 
+
+!['Watch the demo:'](demoVideo.mp4)
