@@ -15,4 +15,4 @@ Este projeto foi criado durente um curso de Node.JS. Ele simula algumas features
 
 ## Clique para assistir a demonstração:
 
-[![Watch the Demo](https://imgur.com/a/gyyGV0N)](https://youtu.be/PlzwJvXVe54 "Acccounts - Node.js - Demo Video")
+[![Watch the Demo](demo.jpg](https://youtu.be/PlzwJvXVe54 "Acccounts - Node.js - Demo Video")
